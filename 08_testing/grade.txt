@@ -1,4 +1,4 @@
-Grading at Sun Jan  7 15:59:43 UTC 2018
+Grading at Sun Jan  7 16:08:13 UTC 2018
 #################################################
 test input.1:
 Your file matched the expected output
@@ -10,24 +10,9 @@ Your file did not match the expected ouput
 input.2 failed, your output did not match with the answer
 #################################################
 test input.3:
-I expected to find a file called 'input.3' but it did not exist
-(or was not a regular file)
-Here are the files that I can find:
-correct.txt
-grade.txt
-input.1
-input.-1
-input.101
-input.2
-input.4
-input.prime
-isPrime-broken1
-isPrime-broken2
-isPrime-broken3
-isPrime-broken4
-isPrime-correct
-README
-student.txt
+Line_1_did_not_match
+Your file did not match the expected ouput
+input.3 failed, your output did not match with the answer
 #################################################
 test input.4:
 Line_1_did_not_match
